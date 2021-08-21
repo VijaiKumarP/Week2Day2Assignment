@@ -58,15 +58,6 @@ public class EditLead {
 		 }else {
 			 System.out.println("Company Value is not Updated");
 		 }
-		 /*
-		 String cmpText = driver.findElement(By.id("viewLead_companyName_sp")).getText();
-		 System.out.println("Updated Text : " +cmpText);
-		 String[] split = cmpText.split(" (");
-		 System.out.println("Array length : " +split.length);
-		 System.out.println(split[1]);
-		 System.out.println(split[2]);
-		 */
-		 
 		 
 		 
 	}
